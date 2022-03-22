@@ -1,0 +1,21 @@
+.card{
+  background-color: aliceblue;
+  height: 230px;
+  width: 220px;
+  padding: 10px;
+}
+img{
+
+  height:100px;
+  width:200px;
+}
+.img{
+  text-align: center;
+}
+
+input{
+  border: none;
+  background: none;
+  border-bottom: 1px rgb(216, 216, 216);
+  margin: 10px;
+}
